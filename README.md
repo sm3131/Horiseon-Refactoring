@@ -2,13 +2,16 @@
 # <Horiseon-Refactoring>
 
 ## Description
-The motivation behind this project was to create a more accesible website for Horiseon's search engine optimization company. In order to achieve increased accessibility it was important to use the company's starter code and make improvements to both the HTML and CSS files. Making Horiseon's website more accesible required adding descriptions to the page's images, fixing broken links, and improving overall organization and navigation within the page. Along with improving accesibility it was also a goal to achieve proper semantic and logical structure of the HTML code as well as consolidate and simplify the CSS code. Improving the accesibility and refactoring the code for Horiseon's webpage solved two problems. The first is that the increased accesibility makes the site easier to use and navigate for people with disabilities. The second problem that was solved is that the HTML and CSS code for the page are now more concise and better organized making future work on Horiseon's website an easier task. 
+The motivation behind this project was to create a more accesible website for Horiseon's search engine optimization company. In order to achieve increased accessibility it was important to use the company's starter code and make improvements to both the HTML and CSS files. Making Horiseon's website more accesible required adding descriptions to the page's images, fixing broken links, and improving overall organization and navigation within the page. 
+
+Along with improving accesibility it was also a goal to achieve proper semantic and logical structure of the HTML code as well as consolidate and simplify the CSS code. Improving the accesibility and refactoring the code for Horiseon's webpage solved two problems. The first is that the increased accesibility makes the site easier to use and navigate for people with disabilities. The second problem that was solved is that the HTML and CSS code for the page are now more concise and better organized making future work on Horiseon's website an easier task. 
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - What problem does it solve?
 - What did you learn?
+
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Installation](#installation)
@@ -19,6 +22,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Built With
 * HTML
 * CSS
+
 ## Installation
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
