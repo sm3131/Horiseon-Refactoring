@@ -26,11 +26,15 @@ From here you can clone the code to your local machine, create new branches, and
 
 ## Usage
 
-Horiseon is a static website, so there aren't any complicated usage issues. To view and navigate through the website follow the link provided below in the "Website Link" section.
+Horiseon is a static website, so there aren't any complicated usage issues. To view and navigate through the website follow the link provided below in the [Website Link](#website-link) section.
+
+Below is a screenshot of the Horiseon website:
+![Horiseon Webpage](/assets/images/01-html-css-git-homework-demo.png)
+
 
 ## Credits
 
-Since this project focused on refactoring code, the starter code files were already created by Xandromus ([GitHub](https://github.com/coding-boot-camp/urban-octo-telegram)). This project used Horiseon's working code with the goal of increasing its accessibility and improving its overall organization and function.
+Since this project focused on improving accessibility and refactoring code, the starter code files were already created by Xandromus ([GitHub](https://github.com/coding-boot-camp/urban-octo-telegram)). This project used Horiseon's working code with the goal of increasing its accessibility and improving its overall organization and function.
 
 ## Website Link
 
